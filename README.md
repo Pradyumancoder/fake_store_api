@@ -1,3 +1,5 @@
+link to clone fake rest api-:: https://github.com/nbkhope/fake-restful-api
+
 # Fake RESTful API
 
 A fake RESTful API for testing purposes, running using the npm module **json-server**. You can easily deploy the API to services like Heroku by simply pushing the repository there.
